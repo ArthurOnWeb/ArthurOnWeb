@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurOnWeb&count_private=true)]((https://github.com/anuraghazra/github-readme-stats))
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xerox123dshdhwx&layout=compact&size_weight=0.5&count_weight=0.5)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOnWeb&layout=compact&size_weight=0.5&count_weight=0.5)]
 
 - 👋 Hi, I’m @ArthurOnWeb
 - 👀 I’m interested in New technology and Big Data
