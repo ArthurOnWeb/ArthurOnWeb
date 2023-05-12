@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurOnWeb&count_private=true)](https://github.com/ArthurOnWeb/github-readme-stats)
+
+
 - 👋 Hi, I’m @ArthurOnWeb
 - 👀 I’m interested in New technology and Big Data
 - 🌱 I’m currently learning Programing and languages such as C++, Node.js and Solidity
