@@ -1,19 +1,34 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOnWeb&count_private=true)]((https://github.com/anuraghazra/github-readme-stats))
+# 👋 Hi, I’m Arthur — Junior Data Engineer & Blockchain Enthusiast
 
-👋 Hi there, I’m ArthurOnWeb
-👀 Interests:
-I'm passionate about Blockchain and Big Data. I enjoy exploring cutting-edge technologies that shape the future of decentralized systems and data analytics.
+🧑‍💻 I'm currently completing my final year of Computer Science Engineering at Polytech Annecy-Chambéry.  
+I love turning complex datasets into meaningful insights.
 
-🌱 Currently Learning:
-I'm diving deep into programming and expanding my skills with languages like C++, Node.js, and Solidity, focusing on building robust and innovative solutions.
+---
 
-💡 Looking to Collaborate:
-I'm open to collaborating on personal or academic projects. If you're working on something exciting in the Blockchain or Big Data domains, feel free to reach out!
+## 🚀 Tech Stack
 
-📫 Contact Me:
-Shoot me an email at Arthur.Rattanavong@etu.univ-smb.fr. I'd love to connect and discuss ideas!
+- 🧠 **Languages**: Python, C++, JavaScript, PHP, Solidity  
+- 📊 **Data & Analytics**: Pandas, Power BI, scikit-learn, SQL/NoSQL  
+- ☁️ **Big Data / Cloud**: Hadoop, Spark, AWS (basic)  
+- 🌐 **Web & Tools**: HTML/CSS, Node.js, Git, Docker, Linux  
 
-<!---
-ArthurOnWeb/ArthurOnWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Currently Learning
+
+- Deeper exploration of **Solidity** & smart contract development  
+- Deploying ML models in production  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm open to contributing to academic, personal or open-source projects in:  
+**Blockchain • Data Analytics • Crypto Trading Bots**
+
+---
+
+## 📫 Contact
+
+📧 Email: [Arthur.Rattanavong@etu.univ-smb.fr](mailto:Arthur.Rattanavong@etu.univ-smb.fr)  
+🔗 [LinkedIn](www.linkedin.com/in/arthur-rattanavong-b4938225a)
