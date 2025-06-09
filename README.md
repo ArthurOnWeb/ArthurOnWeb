@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arthur — Junior Data Engineer & Blockchain Enthusiast
+# 👋 Hi, I’m Arthur — Junior Computer Science Engineer specialized in Data
 
 🧑‍💻 I'm currently completing my final year of Computer Science Engineering at Polytech Annecy-Chambéry.  
 I love turning complex datasets into meaningful insights.
