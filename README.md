@@ -24,7 +24,7 @@ I love turning complex datasets into meaningful insights.
 ## 🤝 Let’s Collaborate
 
 I'm open to contributing to academic, personal or open-source projects in:  
-**Blockchain • Data Analytics • Crypto Trading Bots**
+**Blockchain • Data Analytics • Crypto Bots**
 
 ---
 
