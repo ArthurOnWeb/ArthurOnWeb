@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arthur — Junior Computer Science Engineer specialized in Data
+# 👋 Hi, I’m Arthur — M.Eng. CS · Building in Python · Open to SWE/Data roles
 
 🧑‍💻 I'm currently completing my final year of Computer Science Engineering at Polytech Annecy-Chambéry.  
 I love turning complex datasets into meaningful insights.
